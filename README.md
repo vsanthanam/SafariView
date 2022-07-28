@@ -1,4 +1,3 @@
-# SafariView
 
 [![MIT License](https://img.shields.io/github/license/vsanthanam/SafariView)](https://github.com/vsanthanam/SafariView/blob/main/LICENSE)
 [![Package Releases](https://img.shields.io/github/v/release/vsanthanam/SafariView)](https://github.com/vsanthanam/SafariView/releases)
